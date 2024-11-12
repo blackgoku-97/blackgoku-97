@@ -20,3 +20,13 @@
 <!--Intro end-->
   </p>
 <br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,css,html,js,ts,nodejs,mysql,postgresql,git,github,docker,postman,idea,vscode" />
+  </a>
+</p>
+<br>
+<!-------------------------->
